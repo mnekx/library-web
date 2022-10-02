@@ -23,6 +23,8 @@ To get a local copy up and running follow these simple example steps.
 5. Make sure the library-backend service is running
 6. go to localhost:3000/register
 
+## Tests
+npm run tests
 ## Authors
 
 👤 **Mnemba Chambuya**
